@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "0"
 tags: Regulations.gov
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/regulations-gov/master/_listings/regulations-gov/apis.md
 specificationVersion: "0.14"
 apis:
@@ -66,8 +66,14 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/regulations-gov/master/_listings/regulations-gov/openapi.md
 x-common:
+- type: x-blog
+  url: https://regulationsgov.github.io/developers/blog/
 - type: x-developer
-  url: http://regulationsgov.github.io/developers/
+  url: https://regulationsgov.github.io/developers/
+- type: x-github
+  url: https://github.com/regulationsgov
+- type: x-terms-of-service
+  url: https://regulationsgov.github.io/developers/terms/
 - type: x-website
   url: https://www.regulations.gov/
 include: []

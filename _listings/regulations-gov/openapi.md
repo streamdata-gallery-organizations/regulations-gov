@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Regulations.gov
 x-complete: 1
@@ -161,4 +160,3 @@ paths:
       tags:
       - Regulations
       - Documents
----
